@@ -1,4 +1,4 @@
-let slides = document.querySelectorAll('.single-slide');
+let slides = document.querySelectorAll('.single-slide'); //class of every picture is '.single-slide'
 // console.log(slides);
 let slider = [];
 for (let i = 0; i < slides.length; i++) {
